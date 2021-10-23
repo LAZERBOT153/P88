@@ -1,0 +1,18 @@
+h1 {
+   color: darkred;
+}
+span {
+    background-color: aliceblue;
+    position: center;
+}
+.body_background {
+    background-image: url("https://ak.picdn.net/shutterstock/videos/1013858618/thumb/1.jpg");
+    position: center;
+    background-size: cover;
+    background-position: center;
+}
+#myCanvas {
+    border-style: ridge;
+    background-color: green;
+    border-width: 10px;
+}
